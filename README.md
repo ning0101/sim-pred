@@ -2,14 +2,14 @@
 
 ### Description 
 
-進行相似度與預測評分計算，並在最後進行資料整合
+進行user-based CF與item-based CF相似度與預測評分計算，並在最後進行資料整合。
 
-#### similarity calculation
-* cosine similarity
-* adjust cosine similarity
-* Pearson similarity
+* similarity calculation
+ * cosine similarity
+ * adjust cosine similarity
+ * Pearson similarity
 
-#### Prediction calculation
+* Prediction calculation
 
 
 

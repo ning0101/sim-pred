@@ -2,7 +2,7 @@
 
 ### Description 
 
-**進行相似度與預測評分計算**
+**進行相似度與預測評分計算:**
 
 #### similarity calculation
 * cosine similarity
@@ -10,6 +10,7 @@
 * Pearson similarity
 
 #### Prediction calculation
+
 
 
 ### Tools
